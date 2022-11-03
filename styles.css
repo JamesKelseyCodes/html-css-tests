@@ -1,0 +1,29 @@
+/* styles.css */
+
+* {
+text-align: center;
+font-family: sans-serif;
+}
+
+.class-one,
+.class-two {
+  color: white;
+ }
+
+.class-one {
+  background-color: green;
+}
+
+.class-one.subsection {
+  font-style: italic;
+  font-size: 8px
+}
+
+.class-two {
+  background-color: red;
+}
+
+img {
+  height: auto;
+  width: 400px;
+}
